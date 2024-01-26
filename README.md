@@ -70,9 +70,9 @@ No Activity Tracked This Week
 
 
 - Frameworks: &nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=000000)
 
 - Databases: &nbsp;
