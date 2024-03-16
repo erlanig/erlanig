@@ -10,10 +10,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erlanig&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-- I am a Software Engineer Intern at Rejeki Toyota. My skills at work include HTML, CSS, PHP, JS, Oracle, JasperSoft.
-- I am a Undergraduate Informatics Student at Diponegoro University.
-- I am a Cloud Computing Class 2024 Student at Bangkit Academy Batch 1.
-- I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in PHP and JS.
+- I am a Ex-Software Engineer Intern at Rejeki Toyota. My skills at work include HTML, CSS, PHP, JS, Oracle, JasperSoft
+- I am a Undergraduate Informatics Student at Diponegoro University
+- I am a Cloud Computing Class 2024 Student at Bangkit Academy Batch 1
+- I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in PHP and JS
 
 ---
 
