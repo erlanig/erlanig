@@ -69,7 +69,6 @@ No Activity Tracked This Week
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=007ACC)
 
-
 - Frameworks: &nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -82,6 +81,9 @@ No Activity Tracked This Week
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+
+- Cloud Services: &nbsp;
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud&logoColor=4285F4)
 
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
