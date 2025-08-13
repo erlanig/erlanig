@@ -10,7 +10,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erlanig&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-- I am a Ex-Cloud Infrastructure Engineer at Helios (CTI Group)
+- I am a IT Developer (MT) at PT Bukaka Teknik Utama, Tbk
+- I am a Ex-Cloud Infrastructure Engineer at PT Helios Informatika Nusantara (CTI Group)
 - I am a Ex-IoT Engineer Intern at PT Kalbe Farma, Tbk
 - I am a Ex-Software Engineer Intern at Rejeki Toyota. My skills at work include HTML, CSS, PHP, JS, Oracle, JasperSoft
 - I am a Undergraduate Informatics Student at Diponegoro University
@@ -104,3 +105,4 @@ No Activity Tracked This Week
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
