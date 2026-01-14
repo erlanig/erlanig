@@ -22,6 +22,7 @@
 ---
 
 ## ⚙️ GitHub Analytics
+---
 ### ⏱️ Coding Activity (WakaTime)
 <p align="center">
   <img src="http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue?style=for-the-badge&logo=wakatime" />
@@ -117,5 +118,6 @@ No Activity Tracked This Week
 <div align="center">
   <h3>Show some ❤️ by starring repositories!</h3>
 </div>
+
 
 
