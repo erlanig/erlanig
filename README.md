@@ -1,6 +1,8 @@
+<p align="center"> <h1 align="center"> Hi, I am Erlan Irhab Ghalib <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1> </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Erlan%20Irhab%20Ghalib&fontSize=50&animation=fadeIn" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erlanig/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
@@ -97,3 +99,4 @@
   <h3>Show some ❤️ by starring some of the repositories!</h3>
   <img src="https://raw.githubusercontent.com/erlanig/erlanig/main/path/to/animation.gif" width="100" />
 </div>
+
