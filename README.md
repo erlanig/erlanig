@@ -21,20 +21,39 @@
 
 ---
 
-**⚙️ &nbsp;GitHub Analytics**
+## ⚙️ GitHub Analytics
 
-<table style="width:100%; display:flex; align-items:center">
-  <tr>
-<!--     <td> <img src="https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=dark&locale=en&hide_border=true" alt="erlanig" /></td> -->
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
+### 📊 GitHub Statistics & Consistency
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erlanig&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<!-- [![Erlan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erlanig&theme=tokyonight)](https://github.com/erlanig/github-readme-stats)-->
-<!-- *** -->
-<!--START_SECTION:waka-->
+---
 
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+### 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="50%" />
+</p>
+
+---
+
+### ⏱️ Coding Activity (WakaTime)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=erlanig&theme=tokyonight&hide_border=true&layout=compact" width="70%" />
+</p>
+
+<p align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue?style=for-the-badge&logo=wakatime" />
+</p>
+
+---
+
+### 📈 Contribution Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight" width="90%" />
+</p>
+
 
 <!--
 📊 **This Week I Spent My Time On**
@@ -126,3 +145,4 @@ No Activity Tracked This Week
 <div align="center">
   <h3>Show some ❤️ by starring repositories!</h3>
 </div>
+
