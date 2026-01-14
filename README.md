@@ -10,7 +10,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erlanig&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-- I am a Fabrication & Project System Develpper (MT) at PT Bukaka Teknik Utama, Tbk
+- I am a System Develpper & Data Engineer (MT) at PT Bukaka Teknik Utama, Tbk
 - I am a Ex-Data Analyst Intern at PT Bank Syariah Indonesia, Tbk
 - I am a Ex-Cloud Infrastructure Engineer at PT Helios Informatika Nusantara (CTI Group)
 - I am a Ex-IoT Engineer Intern at PT Kalbe Farma, Tbk
@@ -106,5 +106,6 @@ No Activity Tracked This Week
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
 
 
