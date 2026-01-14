@@ -103,9 +103,9 @@ No Activity Tracked This Week
 ---
 
 ## 🔭 Current Focus
-- 🏗️ Building **Backend Systems (PHP / JavaScript)**
+- 🏗️ Building **Backend Systems (Python / PHP / JavaScript)**
 - 🌱 Learning **Spring Framework** & **MERN Stack**
-- 💬 Ask me about **Flutter, PHP, Dart, JavaScript, OOP, DBMS, DSA, Data Engineering**
+- 💬 Ask me about **SWE, Cloud, AI, OOP, DBMS, DSA, Data Engineering**
 
 ---
 
@@ -116,6 +116,7 @@ No Activity Tracked This Week
 <div align="center">
   <h3>Show some ❤️ by starring repositories!</h3>
 </div>
+
 
 
 
