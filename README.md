@@ -79,6 +79,7 @@ No Activity Tracked This Week
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=000000)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=05998B)
 
 - Databases: &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -106,6 +107,7 @@ No Activity Tracked This Week
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
 
 
 
