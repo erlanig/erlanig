@@ -79,6 +79,7 @@ No Activity Tracked This Week
       <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js" />
       <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask" />
       <img src="https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=05998B" />
+      <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=ffffff" />
     </td>
   </tr>
   <tr>
@@ -94,8 +95,17 @@ No Activity Tracked This Week
     <td width="50%" valign="top">
       <h4>☁️ Cloud & Tools</h4>
       <img src="https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=google-cloud" />
+      <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws" />
+      <img src="https://img.shields.io/badge/-Tencent%20Cloud-333333?style=flat&logo=tencent-cloud" />
       <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
       <img src="https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio" />
+      <img src="https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧩 Data Engineer</h4>
+      <img src="https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow" />
+      <img src="https://img.shields.io/badge/-Dagster-333333?style=flat&logo=dagster" />
+      <img src="https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt&logoColor=FF694B" />
     </td>
   </tr>
 </table>
@@ -103,7 +113,7 @@ No Activity Tracked This Week
 ---
 
 ## 🔭 Current Focus
-- 🏗️ Building **Backend Systems (Python / PHP / JavaScript)**
+- 🏗️ Building **Systems**
 - 🌱 Learning **Spring Framework** & **MERN Stack**
 - 💬 Ask me about **SWE, Cloud, AI, OOP, DBMS, DSA, Data Engineering**
 
@@ -116,6 +126,7 @@ No Activity Tracked This Week
 <div align="center">
   <h3>Show some ❤️ by starring repositories!</h3>
 </div>
+
 
 
 
