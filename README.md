@@ -100,9 +100,6 @@ No Activity Tracked This Week
       <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
       <img src="https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio" />
       <img src="https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧩 Data Engineer</h4>
       <img src="https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow" />
       <img src="https://img.shields.io/badge/-Dagster-333333?style=flat&logo=dagster" />
       <img src="https://img.shields.io/badge/-dbt-333333?style=flat&logo=dbt&logoColor=FF694B" />
@@ -126,6 +123,7 @@ No Activity Tracked This Week
 <div align="center">
   <h3>Show some ❤️ by starring repositories!</h3>
 </div>
+
 
 
 
