@@ -112,7 +112,7 @@ No Activity Tracked This Week
 ## 🔭 Current Focus
 - 🏗️ Building **Systems**
 - 🌱 Learning **Spring Framework** & **MERN Stack**
-- 💬 Ask me about **SWE, Cloud, AI, OOP, DBMS, DSA, Data Engineering**
+- 💬 Ask me about **SWE, Cloud, & Data Engineering**
 
 ---
 
@@ -123,3 +123,4 @@ No Activity Tracked This Week
 <div align="center">
   <h3>Show some ❤️ by starring repositories!</h3>
 </div>
+
