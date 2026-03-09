@@ -40,7 +40,7 @@
 
 ## 👨‍💼 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="200" alt="cat coding"/>
+<img align="right" src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="200" alt="cat catan"/>
 
 ```yaml
 name        : Erlan Irhab Ghalib
@@ -206,6 +206,7 @@ ask_me_about:
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
 
 
 
