@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Erlan%20Irhab%20Ghalib&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=System%20Developer%20%26%20Data%20Engineer&descAlignY=58&descSize=20&animation=fadeIn&fontFamily=Raleway" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Erlan%20Irhab%20Ghalib&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=System%20Developer%20%26%20Data%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -169,7 +169,7 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=erlanig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=erlanig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" width="100%" />
 
 </div>
 
@@ -179,7 +179,9 @@ ask_me_about:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=8&cache_seconds=1800" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=8" />
+&nbsp;&nbsp;
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4" />
 
 </div>
 
@@ -193,6 +195,6 @@ ask_me_about:
 <br/><br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 </div>
