@@ -80,7 +80,7 @@ ask_me_about:
 <div align="center">
 
 <!-- streak-stats.demolab.com is more stable than herokuapp -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&count_private=true)
+![Erlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&count_private=true&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=erlanig&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)
 
@@ -208,5 +208,6 @@ ask_me_about:
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
 
 
