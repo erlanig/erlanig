@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=👨‍💻+System+Developer+%26+Data+Engineer;☁️+Cloud+Computing+Enthusiast;📊+Data+Engineering+Specialist;🚀+Building+Scalable+Systems;💡+Open+to+Collaboration!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+System+Developer+%26+Data+Engineer;%E2%98%81%EF%B8%8F+Cloud+Computing+Enthusiast;%F0%9F%93%8A+Data+Engineering+Specialist;%F0%9F%9A%80+Building+Scalable+Systems;%F0%9F%92%A1+Open+to+Collaboration!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -169,7 +169,7 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=erlanig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=erlanig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 
 </div>
 
@@ -179,7 +179,7 @@ ask_me_about:
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=8&cache_seconds=1800" />
 
 </div>
 
