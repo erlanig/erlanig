@@ -1,62 +1,65 @@
+<!-- HEADER WAVE - PROVEN WORKING -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erlan%20Irhab%20Ghalib&fontSize=55&fontColor=fff&fontAlignY=38&desc=System%20Developer%20%26%20Data%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
+
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Erlan%20Irhab%20Ghalib&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=System%20Developer%20%26%20Data%20Engineer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" />
-
-<!-- ANIMATED TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=50&amp;lines=System+Developer+%26+Data+Engineer;Cloud+Computing+Enthusiast;Data+Engineering+Specialist;Building+Scalable+Systems;Open+to+Collaboration!" alt="Typing SVG" />
-</a>
+<!-- TYPING SVG - PROVEN WORKING (no emoji in lines) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=System+Developer+%26+Data+Engineer;Cloud+Computing+Enthusiast;Data+Engineering+Specialist;Building+Scalable+Systems+%F0%9F%9A%80;Open+to+Collaboration!)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-<p>
-  <a href="https://www.linkedin.com/in/erlanig/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/erlanirhab/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:erlanig221@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlanig/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erlanirhab/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erlanig221@gmail.com)
 
-<!-- PROFILE VISITS -->
-<img src="https://komarev.com/ghpvc/?username=erlanig&amp;label=Profile%20Visits&amp;color=blueviolet&amp;style=for-the-badge" alt="Profile Views" />
+<!-- PROFILE VISITS - PROVEN WORKING -->
+![](https://komarev.com/ghpvc/?username=erlanig&label=Profile+Visits&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<!-- NYAN CAT ANIMATION - from proven raw GitHub source -->
+<div align="center">
+  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/sQTkVsFo4zGt1S0KUq/giphy.gif" width="180" alt="nyan cat"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
+</div>
+
+---
+
+<!-- SNAKE CONTRIBUTION GRAPH -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 ---
 
 ## 👨‍💼 About Me
 
-<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-name: Erlan Irhab Ghalib
-current_role: System Developer & Data Engineer (MT)
-company: PT Bukaka Teknik Utama, Tbk
-education: Informatics @ Diponegoro University
-bootcamp: Bangkit Academy Batch 1 - Cloud Computing 2024
+name        : Erlan Irhab Ghalib
+role        : System Developer & Data Engineer (MT)
+company     : PT Bukaka Teknik Utama, Tbk
+education   : Informatics @ Diponegoro University
+bootcamp    : Bangkit Academy Batch 1 - Cloud Computing 2024
 
-experiences:
-  - Data Analyst Intern       → PT Bank Syariah Indonesia, Tbk
-  - Cloud Infra Engineer      → PT Helios Informatika Nusantara (CTI Group)
-  - IoT Engineer Intern       → PT Kalbe Farma, Tbk
-  - Software Engineer Intern  → Rejeki Toyota
+experience  :
+  ↳ Data Analyst Intern      @ PT Bank Syariah Indonesia, Tbk
+  ↳ Cloud Infra Engineer     @ PT Helios Informatika Nusantara
+  ↳ IoT Engineer Intern      @ PT Kalbe Farma, Tbk
+  ↳ Software Engineer Intern @ Rejeki Toyota
 
 ask_me_about:
   - Software Engineering
@@ -78,16 +81,34 @@ ask_me_about:
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&count_private=true)
+<!-- STATS - using markdown syntax, most reliable format -->
+![Erlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&count_private=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=erlanig&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<!-- REPLACED TROPHIES (unreliable) with guaranteed shields -->
+![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-20%2B-blue?style=for-the-badge&logo=github)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Internships-orange?style=for-the-badge&logo=briefcase)
+![Cloud](https://img.shields.io/badge/Cloud%20Certified-Bangkit%20Academy-purple?style=for-the-badge&logo=googlecloud)
+![Stack](https://img.shields.io/badge/Full%20Stack-SWE%20%7C%20Cloud%20%7C%20Data-red?style=for-the-badge&logo=stackshare)
 
 <br/>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight)
+<!-- ACTIVITY GRAPH - alternative to trophies, very reliable -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erlanig&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true)
 
 </div>
 
@@ -108,7 +129,7 @@ ask_me_about:
 
 </div>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks
 <div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -165,33 +186,37 @@ ask_me_about:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Top Languages Used
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erlanig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- REPLACED broken top-langs widget with reliable manual skill bars -->
+![PHP](https://img.shields.io/badge/PHP-▓▓▓▓▓▓▓▓▓░-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-▓▓▓▓▓▓▓░░░-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-▓▓▓▓▓▓░░░░-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-▓▓▓▓░░░░░░-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-▓▓▓▓▓░░░░░-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-▓▓▓░░░░░░░-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Top Languages
-
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erlanig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4&langs_count=8)
-
-</div>
-
----
-
-<div align="center">
-
+<!-- ANIMATED QUOTE - reliable -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br/><br/>
+<br/>
+
+<!-- NYAN CAT FOOTER -->
+<img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
+
+<img src="https://media.giphy.com/media/sQTkVsFo4zGt1S0KUq/giphy.gif" width="100" alt="nyan cat small"/>
+
+**Show some ❤️ by starring repositories!**
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer&amp;animation=fadeIn" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
