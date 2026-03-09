@@ -7,11 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+I'm+Erlan+Irhab+Ghalib+%F0%9F%91%8B;System+Developer+%26+Data+Engineer;Cloud+Computing+Enthusiast;Data+Engineering+Specialist;Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- ANIMATED CAT - from raw.githubusercontent, proven works on GitHub -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="80" alt="cat"/>
-&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" alt="cat face"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" width="80" alt="cat joy"/>
 
 <br/>
 
@@ -170,7 +167,7 @@ ask_me_about:
 ![Commits](https://img.shields.io/badge/Commits-500%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 ![Repos](https://img.shields.io/badge/Repos-20%2B-blue?style=for-the-badge&logo=github&logoColor=white)
 ![Internships](https://img.shields.io/badge/Internships-4%2B-orange?style=for-the-badge&logo=briefcase&logoColor=white)
-![Certified](https://img.shields.io/badge/Cloud%20Certified-Bangkit%202024-purple?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Certified](https://img.shields.io/badge/Cloud%20Certified-ACA%20Alibaba%20Cloud%20Engineer%20Associate-purple?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -205,12 +202,11 @@ ask_me_about:
 <!-- NYAN CAT FOOTER -->
 <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
 
-<img src="https://media.giphy.com/media/sQTkVsFo4zGt1S0KUq/giphy.gif" width="100" alt="nyan cat small"/>
-
 **Show some ❤️ by starring repositories!**
 
 <!-- FOOTER WAVE -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
 
