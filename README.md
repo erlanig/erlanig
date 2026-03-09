@@ -84,6 +84,10 @@ ask_me_about:
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight" width="90%" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -169,10 +173,6 @@ ask_me_about:
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight" width="90%" />
-</p>
-
 ---
 
 ## 🌐 Languages I Use
@@ -206,6 +206,7 @@ ask_me_about:
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
 
 
 
