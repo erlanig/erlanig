@@ -108,7 +108,9 @@ ask_me_about:
 <br/>
 
 <!-- ACTIVITY GRAPH - alternative to trophies, very reliable -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erlanig&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight" width="90%" />
+</p>
 
 </div>
 
@@ -220,3 +222,4 @@ ask_me_about:
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
