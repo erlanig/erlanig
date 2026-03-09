@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/erlanirhab/">
+  <a href="https://www.instagram.com/erlanig_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
   </a>
   &nbsp;
@@ -198,3 +198,4 @@ ask_me_about:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
 </div>
+
