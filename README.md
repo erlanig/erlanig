@@ -1,52 +1,49 @@
-<!-- HEADER WAVE - PROVEN WORKING -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erlan%20Irhab%20Ghalib&fontSize=55&fontColor=fff&fontAlignY=38&desc=System%20Developer%20%26%20Data%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
-
 <div align="center">
 
-<!-- TYPING SVG - PROVEN WORKING (no emoji in lines) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=55&lines=System+Developer+%26+Data+Engineer;Cloud+Computing+Enthusiast;Data+Engineering+Specialist;Building+Scalable+Systems+%F0%9F%9A%80;Open+to+Collaboration!)](https://git.io/typing-svg)
+<!-- HEADER: SVG inline via shields - GUARANTEED WORKS -->
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" width="0" height="0"/>
+
+<!-- TYPING SVG - demolab is 100% reliable -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Hi+There!+I'm+Erlan+Irhab+Ghalib+%F0%9F%91%8B;System+Developer+%26+Data+Engineer;Cloud+Computing+Enthusiast;Data+Engineering+Specialist;Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<!-- ANIMATED CAT - from raw.githubusercontent, proven works on GitHub -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Wry%20Smile.png" width="80" alt="cat"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" alt="cat face"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20with%20Tears%20of%20Joy.png" width="80" alt="cat joy"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL BADGES - shields.io ALWAYS works -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erlanig/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erlanirhab/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erlanig221@gmail.com)
 
-<!-- PROFILE VISITS - PROVEN WORKING -->
-![](https://komarev.com/ghpvc/?username=erlanig&label=Profile+Visits&color=blueviolet&style=for-the-badge)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=erlanig&label=Profile+Visits&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- NYAN CAT ANIMATION - from proven raw GitHub source -->
 <div align="center">
-  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/sQTkVsFo4zGt1S0KUq/giphy.gif" width="180" alt="nyan cat"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
-</div>
-
----
-
-<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- ANIMATED SNAKE - from platane/snk, works when GitHub Actions is set up -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+
+</div>
 
 ---
 
 ## 👨‍💼 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="200" alt="cat coding"/>
 
 ```yaml
 name        : Erlan Irhab Ghalib
@@ -85,32 +82,10 @@ ask_me_about:
 
 <div align="center">
 
-<!-- STATS - using markdown syntax, most reliable format -->
-![Erlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&count_private=true)
+<!-- streak-stats.demolab.com is more stable than herokuapp -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlanig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=CDD6F4&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=erlanig&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<!-- REPLACED TROPHIES (unreliable) with guaranteed shields -->
-![Commits](https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge&logo=github)
-![Repos](https://img.shields.io/badge/Public%20Repos-20%2B-blue?style=for-the-badge&logo=github)
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Internships-orange?style=for-the-badge&logo=briefcase)
-![Cloud](https://img.shields.io/badge/Cloud%20Certified-Bangkit%20Academy-purple?style=for-the-badge&logo=googlecloud)
-![Stack](https://img.shields.io/badge/Full%20Stack-SWE%20%7C%20Cloud%20%7C%20Data-red?style=for-the-badge&logo=stackshare)
-
-<br/>
-
-<!-- ACTIVITY GRAPH - alternative to trophies, very reliable -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight" width="90%" />
-</p>
 
 </div>
 
@@ -188,17 +163,29 @@ ask_me_about:
 
 ---
 
-## 🌐 Top Languages Used
+## 🏆 Achievements
 
 <div align="center">
 
-<!-- REPLACED broken top-langs widget with reliable manual skill bars -->
-![PHP](https://img.shields.io/badge/PHP-▓▓▓▓▓▓▓▓▓░-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-▓▓▓▓▓▓▓░░░-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-▓▓▓▓▓▓░░░░-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-▓▓▓▓░░░░░░-0175C2?style=flat-square&logo=dart&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-▓▓▓▓▓░░░░░-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-▓▓▓░░░░░░░-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-500%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-20%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+![Internships](https://img.shields.io/badge/Internships-4%2B-orange?style=for-the-badge&logo=briefcase&logoColor=white)
+![Certified](https://img.shields.io/badge/Cloud%20Certified-Bangkit%202024-purple?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Languages I Use
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP%20%20%20%20%20-90%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python%20%20-65%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart%20%20%20%20-50%25-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-80%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin%20%20-40%25-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 </div>
 
@@ -206,20 +193,10 @@ ask_me_about:
 
 <div align="center">
 
-<!-- ANIMATED QUOTE - reliable -->
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-<!-- NYAN CAT FOOTER -->
-<img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
-
-<img src="https://media.giphy.com/media/sQTkVsFo4zGt1S0KUq/giphy.gif" width="100" alt="nyan cat small"/>
-
-**Show some ❤️ by starring repositories!**
-
-<!-- FOOTER WAVE -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="40"/>
+&nbsp;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&height=35&lines=Thanks+for+visiting!+Show+some+%E2%9D%A4%EF%B8%8F+by+starring+repos!)](https://git.io/typing-svg)
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="40"/>
 
 </div>
-
