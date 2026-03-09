@@ -174,6 +174,10 @@ ask_me_about:
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlanig&theme=tokyonight" width="90%" />
+</p>
+
 ---
 
 ## 🌐 Languages I Use
@@ -193,10 +197,20 @@ ask_me_about:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="40"/>
-&nbsp;
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&height=35&lines=Thanks+for+visiting!+Show+some+%E2%9D%A4%EF%B8%8F+by+starring+repos!)](https://git.io/typing-svg)
-&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="40"/>
+<!-- ANIMATED QUOTE - reliable -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br/>
+
+<!-- NYAN CAT FOOTER -->
+<img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100%" height="8px"/>
+
+<img src="https://media.giphy.com/media/sQTkVsFo4zGt1S0KUq/giphy.gif" width="100" alt="nyan cat small"/>
+
+**Show some ❤️ by starring repositories!**
+
+<!-- FOOTER WAVE -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn)
 
 </div>
+
